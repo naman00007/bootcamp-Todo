@@ -1,0 +1,4 @@
+#Wed Jul 12 16:10:30 EDT 2023
+base.0=/Users/namandhiman/Documents/projectPersonal/flutterPersonal/Todo-bootcamp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
